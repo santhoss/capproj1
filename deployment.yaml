@@ -15,7 +15,7 @@ spec:
         app: nginx
     spec:
       containers:
-      - name: nginx_SSS
+      - name: nginxsss
         image: santhoss/prj2
         ports:
         - containerPort: 80
